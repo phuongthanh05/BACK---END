@@ -1,0 +1,31 @@
+﻿@model List<BTVN.Models.ModelProduct>
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div>
+   <h3>Thong tin san pham </h3>
+   <a class="btn btn-primary mb-2" href="/User/Add">Them moi</a>
+   <table class="table table-bordered">
+       <thead>
+           <tr>
+               <th>Ma san pham</th>
+               <th>Ten san pham</th>
+               <th>Gia</th>
+
+           </tr>
+       </thead>
+  
+    <tbody>
+        @foreach (var item in Model){
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+            </tr>
+        }
+    </tbody>
+    </table>
+
+</div>
+
