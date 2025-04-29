@@ -1,0 +1,14 @@
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\ViDuMau.GeneratedMSBuildEditorConfig.editorconfig
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\ViDuMau.AssemblyInfoInputs.cache
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\ViDuMau.AssemblyInfo.cs
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\ViDuMau.csproj.CoreCompileInputs.cache
+F:\BACK END\lap15\ViDuMau\bin\Debug\net8.0\ViDuMau.exe
+F:\BACK END\lap15\ViDuMau\bin\Debug\net8.0\ViDuMau.deps.json
+F:\BACK END\lap15\ViDuMau\bin\Debug\net8.0\ViDuMau.runtimeconfig.json
+F:\BACK END\lap15\ViDuMau\bin\Debug\net8.0\ViDuMau.dll
+F:\BACK END\lap15\ViDuMau\bin\Debug\net8.0\ViDuMau.pdb
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\ViDuMau.dll
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\refint\ViDuMau.dll
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\ViDuMau.pdb
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\ViDuMau.genruntimeconfig.cache
+F:\BACK END\lap15\ViDuMau\obj\Debug\net8.0\ref\ViDuMau.dll

@@ -1,0 +1,14 @@
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\bai2.AssemblyInfoInputs.cache
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\bai2.AssemblyInfo.cs
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\bai2.csproj.CoreCompileInputs.cache
+F:\BACK END\lap15\bai2\bin\Debug\net8.0\bai2.exe
+F:\BACK END\lap15\bai2\bin\Debug\net8.0\bai2.deps.json
+F:\BACK END\lap15\bai2\bin\Debug\net8.0\bai2.runtimeconfig.json
+F:\BACK END\lap15\bai2\bin\Debug\net8.0\bai2.dll
+F:\BACK END\lap15\bai2\bin\Debug\net8.0\bai2.pdb
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\bai2.dll
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\refint\bai2.dll
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\bai2.pdb
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\bai2.genruntimeconfig.cache
+F:\BACK END\lap15\bai2\obj\Debug\net8.0\ref\bai2.dll

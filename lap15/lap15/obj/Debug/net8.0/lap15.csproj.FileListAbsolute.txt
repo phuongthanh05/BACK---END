@@ -1,0 +1,14 @@
+F:\BACK END\lap15\lap15\bin\Debug\net8.0\lap15.exe
+F:\BACK END\lap15\lap15\bin\Debug\net8.0\lap15.deps.json
+F:\BACK END\lap15\lap15\bin\Debug\net8.0\lap15.runtimeconfig.json
+F:\BACK END\lap15\lap15\bin\Debug\net8.0\lap15.dll
+F:\BACK END\lap15\lap15\bin\Debug\net8.0\lap15.pdb
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\lap15.GeneratedMSBuildEditorConfig.editorconfig
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\lap15.AssemblyInfoInputs.cache
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\lap15.AssemblyInfo.cs
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\lap15.csproj.CoreCompileInputs.cache
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\lap15.dll
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\refint\lap15.dll
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\lap15.pdb
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\lap15.genruntimeconfig.cache
+F:\BACK END\lap15\lap15\obj\Debug\net8.0\ref\lap15.dll
