@@ -1,0 +1,43 @@
+﻿@model List<Lab>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class=" container" action="POST">
+    <h3>DANH SÁCH NGƯỜI DÙNG </h3>
+    <a class=" btn btn-primary mb-2" href="/User/Add"> Them moi </a>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>PASSWORD</th>
+                <th>EMAIL</th>
+                <th>PHONE</th>
+                <th>ACTION</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.PassWord</td>
+                    <td>@item.Email</td>
+                    <td>@item.Phone</td>
+                    <td>
+                        <div>
+                            <a class="btn btn-warning" href="/User/Edit"
+                            onclick="/User/Edit">Edit</a>
+                            <a class="btn btn-danger" onclick="/User/Delete">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+</div>
+

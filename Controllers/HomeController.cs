@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using BTVN.Models;
+using LAB03.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BTVN.Controllers
+namespace LAB03.Controllers
 {
     public class HomeController : Controller
     {

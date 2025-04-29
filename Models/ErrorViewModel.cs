@@ -1,4 +1,4 @@
-namespace BTVN.Models
+namespace LAB03.Models
 {
     public class ErrorViewModel
     {
